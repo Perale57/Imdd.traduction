@@ -1,0 +1,9 @@
+{
+  "exclude": [
+    "**/node_modules",
+    "**/platforms",
+    "**/plugings",
+    "**/www",
+    "www/js/ace/**/*"
+  ]
+}
